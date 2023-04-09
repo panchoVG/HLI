@@ -1,205 +1,205 @@
-"ISO3","location_name","location_id","super_region_name","super_region_id","region_name","region_id"
-"AFG","Afghanistan",160,"North Africa and Middle East",137,"North Africa and Middle East",137
-"AGO","Angola",168,"Sub-Saharan Africa",166,"Central sub-Saharan Africa",167
-"ALB","Albania",43,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"AND","Andorra",74,"High-income countries",64,"Western Europe",73
-"ARE","United Arab Emirates",156,"North Africa and Middle East",137,"North Africa and Middle East",137
-"ARG","Argentina",97,"High-income countries",64,"Southern Latin America",96
-"ARM","Armenia",33,"Central Europe, eastern Europe, and central Asia",31,"Central Asia",32
-"ASM","American Samoa",298,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"ATG","Antigua and Barbuda",105,"Latin America and Caribbean",103,"Caribbean",104
-"AUS","Australia",71,"High-income countries",64,"Australasia",70
-"AUT","Austria",75,"High-income countries",64,"Western Europe",73
-"AZE","Azerbaijan",34,"Central Europe, eastern Europe, and central Asia",31,"Central Asia",32
-"BDI","Burundi",175,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"BEL","Belgium",76,"High-income countries",64,"Western Europe",73
-"BEN","Benin",200,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"BFA","Burkina Faso",201,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"BGD","Bangladesh",161,"South Asia",158,"South Asia",158
-"BGR","Bulgaria",45,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"BHR","Bahrain",140,"North Africa and Middle East",137,"North Africa and Middle East",137
-"BHS","Bahamas",106,"Latin America and Caribbean",103,"Caribbean",104
-"BIH","Bosnia and Herzegovina",44,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"BLR","Belarus",57,"Central Europe, eastern Europe, and central Asia",31,"Eastern Europe",56
-"BLZ","Belize",108,"Latin America and Caribbean",103,"Caribbean",104
-"BMU","Bermuda",305,"Latin America and Caribbean",103,"Caribbean",104
-"BOL","Bolivia",121,"Latin America and Caribbean",103,"Andean Latin America",120
-"BRA","Brazil",135,"Latin America and Caribbean",103,"Tropical Latin America",134
-"BRB","Barbados",107,"Latin America and Caribbean",103,"Caribbean",104
-"BRN","Brunei",66,"High-income countries",64,"High-income Asia Pacific",65
-"BTN","Bhutan",162,"South Asia",158,"South Asia",158
-"BWA","Botswana",193,"Sub-Saharan Africa",166,"Southern sub-Saharan Africa",192
-"CAF","Central African Republic",169,"Sub-Saharan Africa",166,"Central sub-Saharan Africa",167
-"CAN","Canada",101,"High-income countries",64,"High-income North America",100
-"CHE","Switzerland",94,"High-income countries",64,"Western Europe",73
-"CHL","Chile",98,"High-income countries",64,"Southern Latin America",96
-"CHN","China",6,"Southeast Asia, east Asia, and Oceania",4,"East Asia",5
-"CIV","Cote d'Ivoire",205,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"CMR","Cameroon",202,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"COD","Democratic Republic of the Congo",171,"Sub-Saharan Africa",166,"Central sub-Saharan Africa",167
-"COG","Congo",170,"Sub-Saharan Africa",166,"Central sub-Saharan Africa",167
-"COK","Cook Islands",320,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"COL","Colombia",125,"Latin America and Caribbean",103,"Central Latin America",124
-"COM","Comoros",176,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"CPV","Cabo Verde",203,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"CRI","Costa Rica",126,"Latin America and Caribbean",103,"Central Latin America",124
-"CUB","Cuba",109,"Latin America and Caribbean",103,"Caribbean",104
-"CYP","Cyprus",77,"High-income countries",64,"Western Europe",73
-"CZE","Czechia",47,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"DEU","Germany",81,"High-income countries",64,"Western Europe",73
-"DJI","Djibouti",177,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"DMA","Dominica",110,"Latin America and Caribbean",103,"Caribbean",104
-"DNK","Denmark",78,"High-income countries",64,"Western Europe",73
-"DOM","Dominican Republic",111,"Latin America and Caribbean",103,"Caribbean",104
-"DZA","Algeria",139,"North Africa and Middle East",137,"North Africa and Middle East",137
-"ECU","Ecuador",122,"Latin America and Caribbean",103,"Andean Latin America",120
-"EGY","Egypt",141,"North Africa and Middle East",137,"North Africa and Middle East",137
-"ERI","Eritrea",178,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"ESP","Spain",92,"High-income countries",64,"Western Europe",73
-"EST","Estonia",58,"Central Europe, eastern Europe, and central Asia",31,"Eastern Europe",56
-"ETH","Ethiopia",179,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"FIN","Finland",79,"High-income countries",64,"Western Europe",73
-"FJI","Fiji",22,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"FRA","France",80,"High-income countries",64,"Western Europe",73
-"FSM","Federated States of Micronesia",25,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"GAB","Gabon",173,"Sub-Saharan Africa",166,"Central sub-Saharan Africa",167
-"GBR","United Kingdom",95,"High-income countries",64,"Western Europe",73
-"GEO","Georgia",35,"Central Europe, eastern Europe, and central Asia",31,"Central Asia",32
-"GHA","Ghana",207,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"GIN","Guinea",208,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"GMB","Gambia",206,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"GNB","Guinea-Bissau",209,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"GNQ","Equatorial Guinea",172,"Sub-Saharan Africa",166,"Central sub-Saharan Africa",167
-"GRC","Greece",82,"High-income countries",64,"Western Europe",73
-"GRD","Grenada",112,"Latin America and Caribbean",103,"Caribbean",104
-"GRL","Greenland",349,"High-income countries",64,"High-income North America",100
-"GTM","Guatemala",128,"Latin America and Caribbean",103,"Central Latin America",124
-"GUM","Guam",351,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"GUY","Guyana",113,"Latin America and Caribbean",103,"Caribbean",104
-"HND","Honduras",129,"Latin America and Caribbean",103,"Central Latin America",124
-"HRV","Croatia",46,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"HTI","Haiti",114,"Latin America and Caribbean",103,"Caribbean",104
-"HUN","Hungary",48,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"IDN","Indonesia",11,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"IND","India",163,"South Asia",158,"South Asia",158
-"IRL","Ireland",84,"High-income countries",64,"Western Europe",73
-"IRN","Iran",142,"North Africa and Middle East",137,"North Africa and Middle East",137
-"IRQ","Iraq",143,"North Africa and Middle East",137,"North Africa and Middle East",137
-"ISL","Iceland",83,"High-income countries",64,"Western Europe",73
-"ISR","Israel",85,"High-income countries",64,"Western Europe",73
-"ITA","Italy",86,"High-income countries",64,"Western Europe",73
-"JAM","Jamaica",115,"Latin America and Caribbean",103,"Caribbean",104
-"JOR","Jordan",144,"North Africa and Middle East",137,"North Africa and Middle East",137
-"JPN","Japan",67,"High-income countries",64,"High-income Asia Pacific",65
-"KAZ","Kazakhstan",36,"Central Europe, eastern Europe, and central Asia",31,"Central Asia",32
-"KEN","Kenya",180,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"KGZ","Kyrgyzstan",37,"Central Europe, eastern Europe, and central Asia",31,"Central Asia",32
-"KHM","Cambodia",10,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"KIR","Kiribati",23,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"KNA","Saint Kitts and Nevis",393,"Latin America and Caribbean",103,"Caribbean",104
-"KOR","South Korea",68,"High-income countries",64,"High-income Asia Pacific",65
-"KWT","Kuwait",145,"North Africa and Middle East",137,"North Africa and Middle East",137
-"LAO","Laos",12,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"LBN","Lebanon",146,"North Africa and Middle East",137,"North Africa and Middle East",137
-"LBR","Liberia",210,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"LBY","Libya",147,"North Africa and Middle East",137,"North Africa and Middle East",137
-"LCA","Saint Lucia",116,"Latin America and Caribbean",103,"Caribbean",104
-"LKA","Sri Lanka",17,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"LSO","Lesotho",194,"Sub-Saharan Africa",166,"Southern sub-Saharan Africa",192
-"LTU","Lithuania",60,"Central Europe, eastern Europe, and central Asia",31,"Eastern Europe",56
-"LUX","Luxembourg",87,"High-income countries",64,"Western Europe",73
-"LVA","Latvia",59,"Central Europe, eastern Europe, and central Asia",31,"Eastern Europe",56
-"MAR","Morocco",148,"North Africa and Middle East",137,"North Africa and Middle East",137
-"MCO","Monaco",367,"High-income countries",64,"Western Europe",73
-"MDA","Moldova",61,"Central Europe, eastern Europe, and central Asia",31,"Eastern Europe",56
-"MDG","Madagascar",181,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"MDV","Maldives",14,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"MEX","Mexico",130,"Latin America and Caribbean",103,"Central Latin America",124
-"MHL","Marshall Islands",24,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"MKD","North Macedonia",49,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"MLI","Mali",211,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"MLT","Malta",88,"High-income countries",64,"Western Europe",73
-"MMR","Myanmar",15,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"MNE","Montenegro",50,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"MNG","Mongolia",38,"Central Europe, eastern Europe, and central Asia",31,"Central Asia",32
-"MNP","Northern Mariana Islands",376,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"MOZ","Mozambique",184,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"MRT","Mauritania",212,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"MUS","Mauritius",183,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"MWI","Malawi",182,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"MYS","Malaysia",13,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"NAM","Namibia",195,"Sub-Saharan Africa",166,"Southern sub-Saharan Africa",192
-"NER","Niger",213,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"NGA","Nigeria",214,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"NIC","Nicaragua",131,"Latin America and Caribbean",103,"Central Latin America",124
-"NIU","Niue",374,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"NLD","Netherlands",89,"High-income countries",64,"Western Europe",73
-"NOR","Norway",90,"High-income countries",64,"Western Europe",73
-"NPL","Nepal",164,"South Asia",158,"South Asia",158
-"NRU","Nauru",369,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"NZL","New Zealand",72,"High-income countries",64,"Australasia",70
-"OMN","Oman",150,"North Africa and Middle East",137,"North Africa and Middle East",137
-"PAK","Pakistan",165,"South Asia",158,"South Asia",158
-"PAN","Panama",132,"Latin America and Caribbean",103,"Central Latin America",124
-"PER","Peru",123,"Latin America and Caribbean",103,"Andean Latin America",120
-"PHL","Philippines",16,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"PLW","Palau",380,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"PNG","Papua New Guinea",26,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"POL","Poland",51,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"PRI","Puerto Rico",385,"Latin America and Caribbean",103,"Caribbean",104
-"PRK","North Korea",7,"Southeast Asia, east Asia, and Oceania",4,"East Asia",5
-"PRT","Portugal",91,"High-income countries",64,"Western Europe",73
-"PRY","Paraguay",136,"Latin America and Caribbean",103,"Tropical Latin America",134
-"PSE","Palestine",149,"North Africa and Middle East",137,"North Africa and Middle East",137
-"QAT","Qatar",151,"North Africa and Middle East",137,"North Africa and Middle East",137
-"ROU","Romania",52,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"RUS","Russia",62,"Central Europe, eastern Europe, and central Asia",31,"Eastern Europe",56
-"RWA","Rwanda",185,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"SAU","Saudi Arabia",152,"North Africa and Middle East",137,"North Africa and Middle East",137
-"SDN","Sudan",522,"North Africa and Middle East",137,"North Africa and Middle East",137
-"SEN","Senegal",216,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"SGP","Singapore",69,"High-income countries",64,"High-income Asia Pacific",65
-"SLB","Solomon Islands",28,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"SLE","Sierra Leone",217,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"SLV","El Salvador",127,"Latin America and Caribbean",103,"Central Latin America",124
-"SMR","San Marino",396,"High-income countries",64,"Western Europe",73
-"SOM","Somalia",187,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"SRB","Serbia",53,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"SSD","South Sudan",435,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"STP","Sao Tome and Principe",215,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"SUR","Suriname",118,"Latin America and Caribbean",103,"Caribbean",104
-"SVK","Slovakia",54,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"SVN","Slovenia",55,"Central Europe, eastern Europe, and central Asia",31,"Central Europe",42
-"SWE","Sweden",93,"High-income countries",64,"Western Europe",73
-"SWZ","Eswatini",197,"Sub-Saharan Africa",166,"Southern sub-Saharan Africa",192
-"SYC","Seychelles",186,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"SYR","Syria",153,"North Africa and Middle East",137,"North Africa and Middle East",137
-"TCD","Chad",204,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"TGO","Togo",218,"Sub-Saharan Africa",166,"Western sub-Saharan Africa",199
-"THA","Thailand",18,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"TJK","Tajikistan",39,"Central Europe, eastern Europe, and central Asia",31,"Central Asia",32
-"TKL","Tokelau",413,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"TKM","Turkmenistan",40,"Central Europe, eastern Europe, and central Asia",31,"Central Asia",32
-"TLS","Timor-Leste",19,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"TON","Tonga",29,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"TTO","Trinidad and Tobago",119,"Latin America and Caribbean",103,"Caribbean",104
-"TUN","Tunisia",154,"North Africa and Middle East",137,"North Africa and Middle East",137
-"TUR","Turkey",155,"North Africa and Middle East",137,"North Africa and Middle East",137
-"TUV","Tuvalu",416,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"TWN","Taiwan (Province of China)",8,"Southeast Asia, east Asia, and Oceania",4,"East Asia",5
-"TZA","Tanzania",189,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"UGA","Uganda",190,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"UKR","Ukraine",63,"Central Europe, eastern Europe, and central Asia",31,"Eastern Europe",56
-"URY","Uruguay",99,"High-income countries",64,"Southern Latin America",96
-"USA","United States of America",102,"High-income countries",64,"High-income North America",100
-"UZB","Uzbekistan",41,"Central Europe, eastern Europe, and central Asia",31,"Central Asia",32
-"VCT","Saint Vincent and the Grenadines",117,"Latin America and Caribbean",103,"Caribbean",104
-"VEN","Venezuela",133,"Latin America and Caribbean",103,"Central Latin America",124
-"VIR","Virgin Islands",422,"Latin America and Caribbean",103,"Caribbean",104
-"VNM","Vietnam",20,"Southeast Asia, east Asia, and Oceania",4,"Southeast Asia",9
-"VUT","Vanuatu",30,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"WSM","Samoa",27,"Southeast Asia, east Asia, and Oceania",4,"Oceania",21
-"YEM","Yemen",157,"North Africa and Middle East",137,"North Africa and Middle East",137
-"ZAF","South Africa",196,"Sub-Saharan Africa",166,"Southern sub-Saharan Africa",192
-"ZMB","Zambia",191,"Sub-Saharan Africa",166,"Eastern sub-Saharan Africa",174
-"ZWE","Zimbabwe",198,"Sub-Saharan Africa",166,"Southern sub-Saharan Africa",192
+ISO3,location_name,location_id,super_region_name,super_region_id,region_name,region_id
+AFG,Afghanistan,160,North Africa and Middle East,137,North Africa and Middle East,137
+AGO,Angola,168,Sub-Saharan Africa,166,Central sub-Saharan Africa,167
+ALB,Albania,43,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+AND,Andorra,74,High-income countries,64,Western Europe,73
+ARE,United Arab Emirates,156,North Africa and Middle East,137,North Africa and Middle East,137
+ARG,Argentina,97,High-income countries,64,Southern Latin America,96
+ARM,Armenia,33,"Central Europe, eastern Europe and central Asia",31,Central Asia,32
+ASM,American Samoa,298,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+ATG,Antigua and Barbuda,105,Latin America and Caribbean,103,Caribbean,104
+AUS,Australia,71,High-income countries,64,Australasia,70
+AUT,Austria,75,High-income countries,64,Western Europe,73
+AZE,Azerbaijan,34,"Central Europe, eastern Europe and central Asia",31,Central Asia,32
+BDI,Burundi,175,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+BEL,Belgium,76,High-income countries,64,Western Europe,73
+BEN,Benin,200,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+BFA,Burkina Faso,201,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+BGD,Bangladesh,161,South Asia,158,South Asia,158
+BGR,Bulgaria,45,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+BHR,Bahrain,140,North Africa and Middle East,137,North Africa and Middle East,137
+BHS,Bahamas,106,Latin America and Caribbean,103,Caribbean,104
+BIH,Bosnia and Herzegovina,44,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+BLR,Belarus,57,"Central Europe, eastern Europe and central Asia",31,Eastern Europe,56
+BLZ,Belize,108,Latin America and Caribbean,103,Caribbean,104
+BMU,Bermuda,305,Latin America and Caribbean,103,Caribbean,104
+BOL,Bolivia,121,Latin America and Caribbean,103,Andean Latin America,120
+BRA,Brazil,135,Latin America and Caribbean,103,Tropical Latin America,134
+BRB,Barbados,107,Latin America and Caribbean,103,Caribbean,104
+BRN,Brunei,66,High-income countries,64,High-income Asia Pacific,65
+BTN,Bhutan,162,South Asia,158,South Asia,158
+BWA,Botswana,193,Sub-Saharan Africa,166,Southern sub-Saharan Africa,192
+CAF,Central African Republic,169,Sub-Saharan Africa,166,Central sub-Saharan Africa,167
+CAN,Canada,101,High-income countries,64,High-income North America,100
+CHE,Switzerland,94,High-income countries,64,Western Europe,73
+CHL,Chile,98,High-income countries,64,Southern Latin America,96
+CHN,China,6,"Southeast Asia, east Asia and Oceania",4,East Asia,5
+CIV,Cote d'Ivoire,205,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+CMR,Cameroon,202,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+COD,Democratic Republic of the Congo,171,Sub-Saharan Africa,166,Central sub-Saharan Africa,167
+COG,Congo,170,Sub-Saharan Africa,166,Central sub-Saharan Africa,167
+COK,Cook Islands,320,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+COL,Colombia,125,Latin America and Caribbean,103,Central Latin America,124
+COM,Comoros,176,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+CPV,Cabo Verde,203,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+CRI,Costa Rica,126,Latin America and Caribbean,103,Central Latin America,124
+CUB,Cuba,109,Latin America and Caribbean,103,Caribbean,104
+CYP,Cyprus,77,High-income countries,64,Western Europe,73
+CZE,Czechia,47,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+DEU,Germany,81,High-income countries,64,Western Europe,73
+DJI,Djibouti,177,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+DMA,Dominica,110,Latin America and Caribbean,103,Caribbean,104
+DNK,Denmark,78,High-income countries,64,Western Europe,73
+DOM,Dominican Republic,111,Latin America and Caribbean,103,Caribbean,104
+DZA,Algeria,139,North Africa and Middle East,137,North Africa and Middle East,137
+ECU,Ecuador,122,Latin America and Caribbean,103,Andean Latin America,120
+EGY,Egypt,141,North Africa and Middle East,137,North Africa and Middle East,137
+ERI,Eritrea,178,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+ESP,Spain,92,High-income countries,64,Western Europe,73
+EST,Estonia,58,"Central Europe, eastern Europe and central Asia",31,Eastern Europe,56
+ETH,Ethiopia,179,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+FIN,Finland,79,High-income countries,64,Western Europe,73
+FJI,Fiji,22,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+FRA,France,80,High-income countries,64,Western Europe,73
+FSM,Federated States of Micronesia,25,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+GAB,Gabon,173,Sub-Saharan Africa,166,Central sub-Saharan Africa,167
+GBR,United Kingdom,95,High-income countries,64,Western Europe,73
+GEO,Georgia,35,"Central Europe, eastern Europe and central Asia",31,Central Asia,32
+GHA,Ghana,207,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+GIN,Guinea,208,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+GMB,Gambia,206,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+GNB,Guinea-Bissau,209,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+GNQ,Equatorial Guinea,172,Sub-Saharan Africa,166,Central sub-Saharan Africa,167
+GRC,Greece,82,High-income countries,64,Western Europe,73
+GRD,Grenada,112,Latin America and Caribbean,103,Caribbean,104
+GRL,Greenland,349,High-income countries,64,High-income North America,100
+GTM,Guatemala,128,Latin America and Caribbean,103,Central Latin America,124
+GUM,Guam,351,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+GUY,Guyana,113,Latin America and Caribbean,103,Caribbean,104
+HND,Honduras,129,Latin America and Caribbean,103,Central Latin America,124
+HRV,Croatia,46,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+HTI,Haiti,114,Latin America and Caribbean,103,Caribbean,104
+HUN,Hungary,48,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+IDN,Indonesia,11,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+IND,India,163,South Asia,158,South Asia,158
+IRL,Ireland,84,High-income countries,64,Western Europe,73
+IRN,Iran,142,North Africa and Middle East,137,North Africa and Middle East,137
+IRQ,Iraq,143,North Africa and Middle East,137,North Africa and Middle East,137
+ISL,Iceland,83,High-income countries,64,Western Europe,73
+ISR,Israel,85,High-income countries,64,Western Europe,73
+ITA,Italy,86,High-income countries,64,Western Europe,73
+JAM,Jamaica,115,Latin America and Caribbean,103,Caribbean,104
+JOR,Jordan,144,North Africa and Middle East,137,North Africa and Middle East,137
+JPN,Japan,67,High-income countries,64,High-income Asia Pacific,65
+KAZ,Kazakhstan,36,"Central Europe, eastern Europe and central Asia",31,Central Asia,32
+KEN,Kenya,180,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+KGZ,Kyrgyzstan,37,"Central Europe, eastern Europe and central Asia",31,Central Asia,32
+KHM,Cambodia,10,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+KIR,Kiribati,23,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+KNA,Saint Kitts and Nevis,393,Latin America and Caribbean,103,Caribbean,104
+KOR,South Korea,68,High-income countries,64,High-income Asia Pacific,65
+KWT,Kuwait,145,North Africa and Middle East,137,North Africa and Middle East,137
+LAO,Laos,12,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+LBN,Lebanon,146,North Africa and Middle East,137,North Africa and Middle East,137
+LBR,Liberia,210,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+LBY,Libya,147,North Africa and Middle East,137,North Africa and Middle East,137
+LCA,Saint Lucia,116,Latin America and Caribbean,103,Caribbean,104
+LKA,Sri Lanka,17,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+LSO,Lesotho,194,Sub-Saharan Africa,166,Southern sub-Saharan Africa,192
+LTU,Lithuania,60,"Central Europe, eastern Europe and central Asia",31,Eastern Europe,56
+LUX,Luxembourg,87,High-income countries,64,Western Europe,73
+LVA,Latvia,59,"Central Europe, eastern Europe and central Asia",31,Eastern Europe,56
+MAR,Morocco,148,North Africa and Middle East,137,North Africa and Middle East,137
+MCO,Monaco,367,High-income countries,64,Western Europe,73
+MDA,Moldova,61,"Central Europe, eastern Europe and central Asia",31,Eastern Europe,56
+MDG,Madagascar,181,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+MDV,Maldives,14,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+MEX,Mexico,130,Latin America and Caribbean,103,Central Latin America,124
+MHL,Marshall Islands,24,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+MKD,North Macedonia,49,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+MLI,Mali,211,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+MLT,Malta,88,High-income countries,64,Western Europe,73
+MMR,Myanmar,15,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+MNE,Montenegro,50,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+MNG,Mongolia,38,"Central Europe, eastern Europe and central Asia",31,Central Asia,32
+MNP,Northern Mariana Islands,376,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+MOZ,Mozambique,184,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+MRT,Mauritania,212,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+MUS,Mauritius,183,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+MWI,Malawi,182,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+MYS,Malaysia,13,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+NAM,Namibia,195,Sub-Saharan Africa,166,Southern sub-Saharan Africa,192
+NER,Niger,213,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+NGA,Nigeria,214,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+NIC,Nicaragua,131,Latin America and Caribbean,103,Central Latin America,124
+NIU,Niue,374,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+NLD,Netherlands,89,High-income countries,64,Western Europe,73
+NOR,Norway,90,High-income countries,64,Western Europe,73
+NPL,Nepal,164,South Asia,158,South Asia,158
+NRU,Nauru,369,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+NZL,New Zealand,72,High-income countries,64,Australasia,70
+OMN,Oman,150,North Africa and Middle East,137,North Africa and Middle East,137
+PAK,Pakistan,165,South Asia,158,South Asia,158
+PAN,Panama,132,Latin America and Caribbean,103,Central Latin America,124
+PER,Peru,123,Latin America and Caribbean,103,Andean Latin America,120
+PHL,Philippines,16,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+PLW,Palau,380,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+PNG,Papua New Guinea,26,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+POL,Poland,51,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+PRI,Puerto Rico,385,Latin America and Caribbean,103,Caribbean,104
+PRK,North Korea,7,"Southeast Asia, east Asia and Oceania",4,East Asia,5
+PRT,Portugal,91,High-income countries,64,Western Europe,73
+PRY,Paraguay,136,Latin America and Caribbean,103,Tropical Latin America,134
+PSE,Palestine,149,North Africa and Middle East,137,North Africa and Middle East,137
+QAT,Qatar,151,North Africa and Middle East,137,North Africa and Middle East,137
+ROU,Romania,52,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+RUS,Russia,62,"Central Europe, eastern Europe and central Asia",31,Eastern Europe,56
+RWA,Rwanda,185,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+SAU,Saudi Arabia,152,North Africa and Middle East,137,North Africa and Middle East,137
+SDN,Sudan,522,North Africa and Middle East,137,North Africa and Middle East,137
+SEN,Senegal,216,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+SGP,Singapore,69,High-income countries,64,High-income Asia Pacific,65
+SLB,Solomon Islands,28,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+SLE,Sierra Leone,217,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+SLV,El Salvador,127,Latin America and Caribbean,103,Central Latin America,124
+SMR,San Marino,396,High-income countries,64,Western Europe,73
+SOM,Somalia,187,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+SRB,Serbia,53,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+SSD,South Sudan,435,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+STP,Sao Tome and Principe,215,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+SUR,Suriname,118,Latin America and Caribbean,103,Caribbean,104
+SVK,Slovakia,54,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+SVN,Slovenia,55,"Central Europe, eastern Europe and central Asia",31,Central Europe,42
+SWE,Sweden,93,High-income countries,64,Western Europe,73
+SWZ,Eswatini,197,Sub-Saharan Africa,166,Southern sub-Saharan Africa,192
+SYC,Seychelles,186,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+SYR,Syria,153,North Africa and Middle East,137,North Africa and Middle East,137
+TCD,Chad,204,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+TGO,Togo,218,Sub-Saharan Africa,166,Western sub-Saharan Africa,199
+THA,Thailand,18,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+TJK,Tajikistan,39,"Central Europe, eastern Europe and central Asia",31,Central Asia,32
+TKL,Tokelau,413,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+TKM,Turkmenistan,40,"Central Europe, eastern Europe and central Asia",31,Central Asia,32
+TLS,Timor-Leste,19,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+TON,Tonga,29,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+TTO,Trinidad and Tobago,119,Latin America and Caribbean,103,Caribbean,104
+TUN,Tunisia,154,North Africa and Middle East,137,North Africa and Middle East,137
+TUR,Turkey,155,North Africa and Middle East,137,North Africa and Middle East,137
+TUV,Tuvalu,416,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+TWN,Taiwan (Province of China),8,"Southeast Asia, east Asia and Oceania",4,East Asia,5
+TZA,Tanzania,189,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+UGA,Uganda,190,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+UKR,Ukraine,63,"Central Europe, eastern Europe and central Asia",31,Eastern Europe,56
+URY,Uruguay,99,High-income countries,64,Southern Latin America,96
+USA,United States of America,102,High-income countries,64,High-income North America,100
+UZB,Uzbekistan,41,"Central Europe, eastern Europe and central Asia",31,Central Asia,32
+VCT,Saint Vincent and the Grenadines,117,Latin America and Caribbean,103,Caribbean,104
+VEN,Venezuela,133,Latin America and Caribbean,103,Central Latin America,124
+VIR,Virgin Islands,422,Latin America and Caribbean,103,Caribbean,104
+VNM,Vietnam,20,"Southeast Asia, east Asia and Oceania",4,Southeast Asia,9
+VUT,Vanuatu,30,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+WSM,Samoa,27,"Southeast Asia, east Asia and Oceania",4,Oceania,21
+YEM,Yemen,157,North Africa and Middle East,137,North Africa and Middle East,137
+ZAF,South Africa,196,Sub-Saharan Africa,166,Southern sub-Saharan Africa,192
+ZMB,Zambia,191,Sub-Saharan Africa,166,Eastern sub-Saharan Africa,174
+ZWE,Zimbabwe,198,Sub-Saharan Africa,166,Southern sub-Saharan Africa,192
