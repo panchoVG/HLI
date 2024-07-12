@@ -1,5 +1,6 @@
 # Healthy lifespan inequality: morbidity compression from a global perspective
-Supporting information for HEALTHY LIFESPAN INEQUALITY: MORBIDITY COMPRESSION FROM A GLOBAL PERSPECTIVE by Iñaki PERMANYER, Francisco VILLAVICENCIO, and Sergi TRIAS-LLIMÓS, published at European Journal of Epidemiology 38(5): 511–521 (2023). https://doi.org/10.1007/s10654-023-00989-3.
+Supporting information for 
+> Permanyer I, Villavicencio F, Trias-Llimós S (2023). Healthy lifespan inequality: morbidity compression from a global perspective. *European Journal of Epidemiology* 38(5): 511–21. DOI: https://doi.org/10.1007/s10654-023-00989-3.
 
 This repository contains the following files and folders:
  
